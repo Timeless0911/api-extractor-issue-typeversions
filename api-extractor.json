@@ -6,7 +6,6 @@
   "mainEntryPointFilePath": "<projectFolder>/dist/index.d.ts",
   "bundledPackages": [
     "kit",
-    "@rslib/core",
     "@types/node",
     "typescript",
     "@microsoft/api-extractor"
